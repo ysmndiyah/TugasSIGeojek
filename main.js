@@ -4,7 +4,7 @@ import { addMarker } from "https://cdn.jsdelivr.net/gh/crootjs/lib@0.0.16/mapmar
 import { findRoute } from "https://cdn.jsdelivr.net/gh/crootjs/lib@0.0.16/georoute.js";
 import { setInner } from "https://cdn.jsdelivr.net/gh/crootjs/lib@0.0.16/element.js";
 
-const TARIF_PER_KM = 4000;
+const TARIF_PER_KM = 7500;
 
 createMap("peta", { center: [107.5759, -6.8736], zoom: 16 });
 
